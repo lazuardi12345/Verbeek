@@ -68,6 +68,8 @@
 - [Pramasta Ramadha Rahardjo](http://github.com/pramastarr)
 - [Nugroho Dwi Hartawan](http://github.com/ikinugrihi)
 - [~~Aris Winardi~~](http://github.com/winardiaris/)
+- [Lazuardi hasan kamil](https://github.com/lazuardi12345) - Bogor
+- [Rakha agus maulana](https://github.com/rakhaagus) - Bekasi
 
 ## Humas
 
